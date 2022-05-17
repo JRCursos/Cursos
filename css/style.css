@@ -1,0 +1,72 @@
+body{
+    font-size: large;
+}
+.whats-app {
+    display: block;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 9999;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 7px;
+    width: 90px;
+    height: 90px;
+
+  }
+.whats-app :hover{
+    background-color: #0d4f83;
+}
+.header{
+    background-color: #0d4f83;
+}
+.title-header{
+ color: #FFF;
+ margin: 7px auto;
+
+}
+.min-logo{
+    margin: 7px auto;
+}
+
+.contato{
+    margin: 50px auto;
+    color: #bd8230;
+    cursor: pointer;
+}
+
+.other{
+    background-color: #fbaf41;
+}
+
+.courses-title{
+    color: #0d4f83;
+    cursor: pointer;
+    font-size: xx-large;
+    margin: 21px auto;
+}
+
+
+.courses-item {
+    cursor: pointer;
+    margin: 14px auto;
+    padding: 21px;
+    font-size: xx-large;
+    background-color: #0d4f83;
+    color: #fbaf41;
+}
+
+.requisitos{
+    color: #0d4f83;
+    font-weight: bold;
+}
+
+
+
+footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
