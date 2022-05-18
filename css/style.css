@@ -14,8 +14,7 @@ body{
     padding: 7px;
     width: 90px;
     height: 90px;
-
-  }
+}
 .whats-app :hover{
     background-color: #0d4f83;
 }
@@ -25,30 +24,37 @@ body{
 .title-header{
  color: #FFF;
  margin: 7px auto;
-
 }
 .min-logo{
+    float: left;
     margin: 7px auto;
 }
-
+.header-logo{
+    margin: 1px;
+    padding: 1px;
+    width: 175px;
+    height: 175px; 
+}
+.logo-view{
+    background-color: #FFF;
+    float: left;
+    margin: -14px;
+    padding: -10px;
+}
 .contato{
     margin: 50px auto;
     color: #bd8230;
     cursor: pointer;
 }
-
 .other{
     background-color: #fbaf41;
 }
-
 .courses-title{
     color: #0d4f83;
     cursor: pointer;
     font-size: xx-large;
     margin: 21px auto;
 }
-
-
 .courses-item {
     cursor: pointer;
     margin: 14px auto;
@@ -57,7 +63,6 @@ body{
     background-color: #0d4f83;
     color: #fbaf41;
 }
-
 .requisitos{
     color: #0d4f83;
     font-weight: bold;
@@ -70,10 +75,6 @@ body{
 .no-style-link:hover{
     color: inherit;
 }
-/* 
-.collapse{
-    box-shadow: 0  0 7px -7px #0d4f83;
-} */
 
 .footer {
     background-color: #0d4f83;
