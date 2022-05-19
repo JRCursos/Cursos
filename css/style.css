@@ -54,6 +54,7 @@ body{
     cursor: pointer;
     font-size: xx-large;
     margin: 21px auto;
+    text-align: center;
 }
 .courses-item {
     cursor: pointer;
@@ -90,4 +91,16 @@ body{
     padding: 14px;
     margin: 7px;
     float: right;
+}
+
+.c-img {
+    height: 200px;
+    width: 400px;
+}
+.autorizado{
+    width: 400px;
+    height: 200px;
+}
+#carouselExampleSlidesOnly{
+    width: 400px;
 }
