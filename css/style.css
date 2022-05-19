@@ -94,13 +94,13 @@ body{
 }
 
 .c-img {
-    height: 200px;
-    width: 400px;
+    width: 300px;
+    height: 150px;
 }
 .autorizado{
-    width: 400px;
-    height: 200px;
+    width: 300px;
+    height: 150px;
 }
 #carouselExampleSlidesOnly{
-    width: 400px;
+    width: 300px;
 }
