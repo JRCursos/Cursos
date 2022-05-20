@@ -90,7 +90,8 @@ body{
     font-weight: bold;
     padding: 14px;
     margin: 7px;
-    float: right;
+    float: right; 
+    font-size: xx-large;
 }
 
 .c-img {
