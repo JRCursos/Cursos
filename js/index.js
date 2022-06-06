@@ -10,6 +10,22 @@ const empresas = [
     {
         'name':'giusoft',
         'phone':'+5571992339330'
+    },
+    {
+        'name':'rotasul',
+        'phone':'+5542988814739' 
+    },
+    {
+        'name':'guia',
+        'phone':'+554598064626'
+    },
+    {
+        'name':'paris',
+        'phone':'+5544999129559'
+    },
+    {
+        'name':'anthony',
+        'phone':'+5544998319246'
     }
 ];
 
