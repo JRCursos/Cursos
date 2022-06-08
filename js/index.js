@@ -9,7 +9,7 @@ const empresas = [
     },
     {
         'name':'dinamica',
-        'phone':''
+        'phone':'+5541999180066'
     },
     {
         'name':'delta',
@@ -29,7 +29,7 @@ const empresas = [
     },
     {
         'name':'palmeira',
-        'phone':'+554232522588'
+        'phone':'+5541999180066'
     },
     {
         'name':'umuarama',
@@ -37,7 +37,7 @@ const empresas = [
     },
     {
         'name':'alfa',
-        'phone':'+554532641324'
+        'phone':'+5541999180066'
     },
     {
         'name':'sgarione',
@@ -54,6 +54,18 @@ const empresas = [
     {
         'name':'opcao',
         'phone':'+5541992060207'
+    },
+    {
+        'name':'magnum',
+        'phone':'+5541996690303'
+    },
+    {
+        'name':'direcao',
+        'phone':'+5541985131396'
+    },
+    {
+        'name':'metropolitana',
+        'phone':'+554184570098'
     }
 ];
  
