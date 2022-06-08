@@ -8,27 +8,57 @@ const empresas = [
         'phone':'+5541999180066'
     },
     {
-        'name':'giusoft',
-        'phone':'+5571992339330'
+        'name':'dinamica',
+        'phone':''
     },
     {
-        'name':'rotasul',
-        'phone':'+5542988814739' 
+        'name':'delta',
+        'phone':'+554333288885'
     },
     {
-        'name':'guia',
-        'phone':'+554598064626'
+        'name':'sitiocercado',
+        'phone':'+5541999046958'
     },
     {
-        'name':'paris',
-        'phone':'+5544999129559'
+        'name':'mandirituba',
+        'phone':'+5541988959536'
     },
     {
-        'name':'anthony',
-        'phone':'+5544998319246'
+        'name':'km',
+        'phone':' +5541974009774'
+    },
+    {
+        'name':'palmeira',
+        'phone':'+554232522588'
+    },
+    {
+        'name':'umuarama',
+        'phone':'+554491212228'
+    },
+    {
+        'name':'alfa',
+        'phone':'+554532641324'
+    },
+    {
+        'name':'sgarione',
+        'phone':'+5543991631976'
+    },
+    {
+        'name':'saobraz',
+        'phone':'+5541992843110'
+    },
+    {
+        'name':'guarany',
+        'phone':'+5543996407722'
+    },
+    {
+        'name':'opcao',
+        'phone':'+5541992060207'
     }
 ];
+ 
 
+ 
 const p = new URLSearchParams(window.location.search).get('p');
 $(document).ready(function(){
     if(p != null){
