@@ -9,7 +9,7 @@ const empresas = [
     },
     {
         'name':'dinamica',
-        'phone':'+5541999180066'
+        'phone':'+5543996673318'
     },
     {
         'name':'delta',
@@ -29,7 +29,7 @@ const empresas = [
     },
     {
         'name':'palmeira',
-        'phone':'+5541999180066'
+        'phone':'+5542999537478'
     },
     {
         'name':'umuarama',
