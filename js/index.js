@@ -66,6 +66,10 @@ const empresas = [
     {
         'name':'metropolitana',
         'phone':'+554184570098'
+    },
+    {
+        'name':'jandaia',
+        'phone':'+5543999233439'
     }
 ];
  
