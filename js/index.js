@@ -12,7 +12,7 @@ const empresas = [
         'phone':'+5543996673318'
     },
     {
-        'name':'delta',
+        'name':'autodelta',
         'phone':'+554333288885'
     },
     {
@@ -74,6 +74,10 @@ const empresas = [
     {
         'name':'master',
         'phone':'+5541999180066'
+    },
+    {
+        'name':'delta',
+        'phone':'+5565999729379'
     }
 ];
  
