@@ -70,6 +70,10 @@ const empresas = [
     {
         'name':'jandaia',
         'phone':'+5543999233439'
+    },
+    {
+        'name':'master',
+        'phone':'+5541999180066'
     }
 ];
  
