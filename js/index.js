@@ -37,7 +37,7 @@ const empresas = [
     },
     {
         'name':'alfa',
-        'phone':'+5541999180066'
+        'phone':'+554599892007'
     },
     {
         'name':'sgarione',
@@ -102,7 +102,11 @@ const empresas = [
     {
         'name':'destak',
         'phone':'+5543998042792'
-    } 
+    }, 
+    {
+        'name':'sinalverde',
+        'phone':'+5598987706422'
+    },  
 ];
  
 
