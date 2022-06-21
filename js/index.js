@@ -78,7 +78,31 @@ const empresas = [
     {
         'name':'delta',
         'phone':'+5565999729379'
-    }
+    }, 
+    {
+        'name':'transitolivre',
+        'phone':'+553832227889'
+    },
+    {
+        'name':'piloto-taruma',
+        'phone':'+554184036732'
+    },
+    {
+        'name':'cuiaba',
+        'phone':'+5544999739340'
+    },
+    {
+        'name':'lisboa',
+        'phone':'+5544999098541'
+    },
+    {
+        'name':'santiago',
+        'phone':'+5544999498530'
+    },
+    {
+        'name':'destak',
+        'phone':'+5543998042792'
+    } 
 ];
  
 
