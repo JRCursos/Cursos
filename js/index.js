@@ -73,7 +73,7 @@ const empresas = [
     },
     {
         'name':'master',
-        'phone':'+5541999180066'
+        'phone':'+5546988033710'
     },
     {
         'name':'delta',
@@ -109,8 +109,60 @@ const empresas = [
     }, 
     {
         'name':'jk',
-        'phone':'+5545999163450'
-    } 
+        'phone':'+5545999779672'
+    },
+    {'name':'DeBrito','phone':'+554535221212'},
+{'name':'CristoRei','phone':'+5543999590301'},
+{'name':'Dgraauw', 'phone':'+5546999371006'},
+{'name':'Dourada','phone':'+5542998087000'},
+{'name':'Agape','phone':'+5543996316900'},
+{'name':'Altonia', 'phone':'+5544999254430'},
+{'name':'Perola', 'phone':'+5544999254430'},
+{'name':'Amorim', 'phone':'+5541991621023'},
+{'name':'Anthony','phone':'+5544998919246'},
+{'name':'Aprender','phone':'+5541998593355'},
+{'name':'Artur', 'phone':'+554235352062'},
+{'name':'AltoGiro', 'phone':'+5541991518709'},
+{'name':'DoBarao', 'phone': '+5542998640054'},
+{'name':'Barracao', 'phone': '+5549984210862'},
+{'name':'Bituruna', 'phone': '+5542984311675'},
+{'name':'Bosco', 'phone':'+5542998316015'},
+{'name':'Caiua', 'phone':'+5544991196119'},
+{'name':'CarFox', 'phone':'+5541995932071'},
+{'name':'CristalSul', 'phone':'+554135341660'},
+{'name':'EneasMarques', 'phone':'+5546984028316'},
+{'name':'FarolVerde', 'phone':'+5543984346850'},
+{'name':'FavoritaP', 'phone': '+554330153399'},
+{'name':'Fasolin','phone':'+5546988260706'},
+{'name':'Fox', 'phone':'+5541999320340'},
+{'name':'GomeLiz', 'phone':'+5541992293671'},
+{'name':'GralhaAzul', 'phone':'+5542998104390'},
+{'name': 'GuiaAstorga', 'phone':'+5544999955065'},
+{'name': 'GuiaJag', 'phone':'+5543999210734'},
+{'name':'GuiaMed', 'phone':'+5545998064626'},
+{'name':'Ibipora', 'phone':'+5543991750062'},
+{'name':'Inovacao', 'phone':'+5544997700109'},
+{'name':'Interlagos','phone':'+554335385628'},
+{'name':'Irati', 'phone':'+5542999297831'},
+{'name':'Izaak', 'phone':'+5541996280971'},
+{'name':'Jandaia', 'phone':'+5543999233439'},
+{'name':'jkCentro', 'phone':'+5545999779672'},
+{'name':'Litoral', 'phone':'+554134723220'},
+{'name':'Machado', 'phone':'+554699107080'},
+{'name':'Mandaguacu', 'phone':'+5544999620135'},
+{'name':'Mangueirinha', 'phone':'+5546999190050'},
+{'name':'Marcon', 'phone':'+5541988938140'},
+{'name':'Margil','phone':'+5546999757464'},
+{'name':'Marol', 'phone':'+5543999383540'},
+{'name':'Menon','phone' :'+5544998385454'},
+{'name':'Milenio', 'phone': '+5541984218864'},
+{'name':'Milesk', 'phone':'+5542984080207'},
+{'name':'Orleans', 'phone':'+554132721222'},
+{'name':'Paicandu', 'phone':'+5544998411157'},
+{'name':'Paris', 'phone':'+5544999129559'},
+{'name':'Pioneira', 'phone':'+5545999400191'},
+{'name':'Piramide', 'phone':'+5544999976674'},
+{'name':'Premier', 'phone':'+5541988208243'}
 ];
  
 
