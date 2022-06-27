@@ -7,7 +7,7 @@ const empresas = [
     {'name':'mandirituba','phone':'+5541988959536', 'uf':'PR'},
     {'name':'km','phone':' +5541974009774', 'uf':'PR'},
     {'name':'palmeira','phone':'+5542999537478', 'uf':'PR'},
-    {'name':'umuarama','phone':'+554491212228', 'uf':'PR'},
+    {'name':'umuarama','phone':'+5544991211228', 'uf':'PR'},
     {'name':'alfa','phone':'+554599892007', 'uf':'PR'},
     {'name':'sgarione','phone':'+5543991631976', 'uf':'PR'},
     {'name':'saobraz','phone':'+5541992843110', 'uf':'PR'},
@@ -79,7 +79,26 @@ const empresas = [
     {'name':'Paris', 'phone':'+5544999129559', 'uf':'PR'},
     {'name':'Pioneira', 'phone':'+5545999400191', 'uf':'PR'},
     {'name':'Piramide', 'phone':'+5544999976674', 'uf':'PR'},
-    {'name':'Premier', 'phone':'+5541988208243', 'uf':'PR'}
+    {'name':'Premier', 'phone':'+5541988208243', 'uf':'PR'},
+    {'name':'Rolandia', 'phone':'+554232761456', 'uf':'PR'},
+    {'name':'RotaSul', 'phone':'+5542988814739', 'uf':'PR'},
+    {'name':'Sheifer', 'phone':'+5542998134848', 'uf':'PR'},
+    {'name':'Seculo', 'phone':'+554133856781', 'uf':'PR'},
+    {'name':'SilvaLon', 'phone':'+5543999918038', 'uf':'PR'},
+    {'name':'SilvaVip', 'phone':'+5543996708583', 'uf':'PR'},    
+    {'name':'StreetCar', 'phone':'+554335462688', 'uf':'PR'},
+    {'name':'Transitar', 'phone':'+554134223950', 'uf':'PR'},
+    {'name':'Universitaria', 'phone':'+5544991197009', 'uf':'PR'},
+    {'name':'Veneza', 'phone':'+554230277777', 'uf':'PR'},
+    {'name':'Vicenza', 'phone':'+5541988900508', 'uf':'PR'},
+    {'name':'Xaxim', 'phone':'+5541991265968', 'uf':'PR'},
+    {'name':'Carlopolis', 'phone':'+5543991822759', 'uf':'PR'},
+    {'name':'AltoParana', 'phone':'+554434222511', 'uf':'PR'},
+    {'name':'Tuneiras', 'phone':'+5544999700038', 'uf':'PR'},
+    {'name':'Ideal', 'phone':'+5544999350031', 'uf':'PR'},
+    {'name':'Brasilia', 'phone':'+5544991098560', 'uf':'PR'},
+    {'name':'BelaCidade', 'phone':'+554332583648', 'uf':'PR'}
+    
 ];
  
 
