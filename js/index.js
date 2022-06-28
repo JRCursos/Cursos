@@ -100,9 +100,11 @@ const empresas = [
     {'name':'BelaCidade', 'phone':'+554332583648', 'uf':'PR'}, 
     {'name':'Tallentus', 'phone':'+558332227089', 'uf':'PB'},
     {'name':'Araujo', 'phone':'+5541985035886', 'uf':'PR'},
+    {'name':'Nardoni', 'phone':'+5544999757295', 'uf':'PR'},
+    {'name':'Martins', 'phone':'+5543984571025', 'uf':'PR'},
         
 ];
- 
+
 
  
 const p = new URLSearchParams(window.location.search).get('p');
@@ -112,6 +114,11 @@ $(document).ready(function(){
         if(e != null){
             $("#img-parceiro").attr("src", "./img/c-"+p+".jpeg");
             $("#img-cfc").attr("src", "./img/c-cfc-"+e.uf+".jpeg");
+            
+            $("#infrator-link").attr("href", 
+            "https://api.whatsapp.com/send?phone="+e.phone+"&text=Olá, gostaria de mais informações sobre o curso *Reciclagem do motorista infrator*"
+            );
+            
             $("#cetci-link").attr("href", 
             "https://api.whatsapp.com/send?phone="+e.phone+"&text=Olá, gostaria de mais informações sobre o curso *CETCI - Condutor Especializado em Transporte de Cargas Indivisíveis*"
             );
