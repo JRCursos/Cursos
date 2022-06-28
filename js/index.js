@@ -97,8 +97,10 @@ const empresas = [
     {'name':'Tuneiras', 'phone':'+5544999700038', 'uf':'PR'},
     {'name':'Ideal', 'phone':'+5544999350031', 'uf':'PR'},
     {'name':'Brasilia', 'phone':'+5544991098560', 'uf':'PR'},
-    {'name':'BelaCidade', 'phone':'+554332583648', 'uf':'PR'}
-    
+    {'name':'BelaCidade', 'phone':'+554332583648', 'uf':'PR'}, 
+    {'name':'Tallentus', 'phone':'+558332227089', 'uf':'PB'},
+    {'name':'Araujo', 'phone':'+5541985035886', 'uf':'PR'},
+        
 ];
  
 
@@ -109,6 +111,7 @@ $(document).ready(function(){
         var e = empresas.find((e) => e.name == p);
         if(e != null){
             $("#img-parceiro").attr("src", "./img/c-"+p+".jpeg");
+            $("#img-cfc").attr("src", "./img/c-cfc-"+e.uf+".jpeg");
             $("#cetci-link").attr("href", 
             "https://api.whatsapp.com/send?phone="+e.phone+"&text=Olá, gostaria de mais informações sobre o curso *CETCI - Condutor Especializado em Transporte de Cargas Indivisíveis*"
             );
