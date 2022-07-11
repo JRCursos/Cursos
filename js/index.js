@@ -7,7 +7,7 @@ const empresas = [
     {'name':'mandirituba','phone':'+5541988959536', 'uf':'PR'},
     {'name':'km','phone':' +5541974009774', 'uf':'PR'},
     {'name':'palmeira','phone':'+5542999537478', 'uf':'PR'},
-    {'name':'umuarama','phone':'+554499912228', 'uf':'PR'},
+    {'name':'umuarama','phone':'+5544991212228', 'uf':'PR'},
     {'name':'alfa','phone':'+554599892007', 'uf':'PR'},
     {'name':'sgarione','phone':'+5543991631976', 'uf':'PR'},
     {'name':'saobraz','phone':'+5541992843110', 'uf':'PR'},
@@ -102,8 +102,8 @@ const empresas = [
     {'name':'Araujo', 'phone':'+5541985035886', 'uf':'PR'},
     {'name':'Nardoni', 'phone':'+5544999757295', 'uf':'PR'},
     {'name':'Martins', 'phone':'+5543984571025', 'uf':'PR'},
-    {'name':'Pratense', 'phone':'+5541999765290', 'uf':'PR'},
     {'name':'Seminario', 'phone':'+5541984636465', 'uf':'PR'},
+    {'name':'Pratense', 'phone':'+5541999765290', 'uf':'PR'},
 ];
 
 
