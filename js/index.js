@@ -104,6 +104,12 @@ const empresas = [
     {'name':'Martins', 'phone':'+5543984571025', 'uf':'PR'},
     {'name':'Seminario', 'phone':'+5541984636465', 'uf':'PR'},
     {'name':'Pratense', 'phone':'+5541999765290', 'uf':'PR'},
+
+
+    {'name':'RegiaoNorte', 'phone':'+554530160369', 'uf':'PR'},
+    {'name':'RioDaPaz', 'phone':'+5545998080034', 'uf':'PR'},
+    {'name':'Cometa', 'phone':'+5545999947812', 'uf':'PR'},
+    {'name':'Avenida', 'phone':'+5545998510058', 'uf':'PR'}
 ];
 
 
