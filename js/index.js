@@ -86,7 +86,7 @@ const empresas = [
     {'name':'Seculo', 'phone':'+554133856781', 'uf':'PR'},
     {'name':'SilvaLon', 'phone':'+5543999918038', 'uf':'PR'},
     {'name':'SilvaVip', 'phone':'+5543996708583', 'uf':'PR'},    
-    {'name':'StreetCar', 'phone':'+554335462688', 'uf':'PR'},
+    {'name':'StreetCar', 'phone':'+554999317369', 'uf':'PR'},
     {'name':'Transitar', 'phone':'+554134223950', 'uf':'PR'},
     {'name':'Universitaria', 'phone':'+5544991197009', 'uf':'PR'},
     {'name':'Veneza', 'phone':'+554230277777', 'uf':'PR'},
@@ -104,12 +104,12 @@ const empresas = [
     {'name':'Martins', 'phone':'+5543984571025', 'uf':'PR'},
     {'name':'Seminario', 'phone':'+5541984636465', 'uf':'PR'},
     {'name':'Pratense', 'phone':'+5541999765290', 'uf':'PR'},
-
-
     {'name':'RegiaoNorte', 'phone':'+554530160369', 'uf':'PR'},
     {'name':'RioDaPaz', 'phone':'+5545998080034', 'uf':'PR'},
     {'name':'Cometa', 'phone':'+5545999947812', 'uf':'PR'},
-    {'name':'Avenida', 'phone':'+5545998510058', 'uf':'PR'}
+    {'name':'Avenida', 'phone':'+5545998510058', 'uf':'PR'},
+    {'name':'StaTerezinhaDeItaipu', 'phone':'+554799742060', 'uf':'PR'},
+    {'name':'abc', 'phone':'+554599742060', 'uf':'PR'}
 ];
 
 
