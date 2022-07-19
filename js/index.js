@@ -110,7 +110,19 @@ const empresas = [
     {'name':'Avenida', 'phone':'+5545998510058', 'uf':'PR'},
     {'name':'StaTerezinhaDeItaipu', 'phone':'+5545999710367', 'uf':'PR'},
     {'name':'abc', 'phone':'+554599742060', 'uf':'PR'},
-    {'name':'Elite', 'phone':'+5543998649075', 'uf':'PR'}
+    {'name':'Elite', 'phone':'+5543998649075', 'uf':'PR'},
+    {'name':'Gentri', 'phone':'+5542999044826', 'uf':'PR'},
+    {'name':'DinamicaNacional', 'phone':'+5545991453818', 'uf':'PR'},
+    {'name':'PilotoLeopoldo', 'phone':'+5541999180065', 'uf':'PR'},
+    {'name':'PilotoHauer', 'phone':'+5541985081520', 'uf':'PR'},
+    {'name':'ViaRapida', 'phone':'+5542984272057', 'uf':'PR'},
+    {'name':'Ducktran', 'phone':'+554632241510', 'uf':'PR'},
+    {'name':'Flex', 'phone':'+5546999250066', 'uf':'PR'},
+    {'name':'', 'phone':'+55', 'uf':'PR'},
+    {'name':'', 'phone':'+55', 'uf':'PR'},
+    {'name':'', 'phone':'+55', 'uf':'PR'},
+    {'name':'', 'phone':'+55', 'uf':'PR'},
+
 ];
 
 
