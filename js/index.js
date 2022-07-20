@@ -117,11 +117,13 @@ const empresas = [
     {'name':'PilotoHauer', 'phone':'+5541985081520', 'uf':'PR'},
     {'name':'ViaRapida', 'phone':'+5542984272057', 'uf':'PR'},
     {'name':'Ducktran', 'phone':'+554632241510', 'uf':'PR'},
-    {'name':'Flex', 'phone':'+5546999250066', 'uf':'PR'},
-    {'name':'', 'phone':'+55', 'uf':'PR'},
-    {'name':'', 'phone':'+55', 'uf':'PR'},
-    {'name':'', 'phone':'+55', 'uf':'PR'},
-    {'name':'', 'phone':'+55', 'uf':'PR'},
+    {'name':'LiderTran', 'phone':'+5546999157141', 'uf':'PR'},
+    {'name':'EducaTransito', 'phone':'+5546999277454', 'uf':'PR'},
+    {'name':'Araucaria', 'phone':'+5546999377076', 'uf':'PR'},
+    {'name':'Vilela', 'phone':'+5543999888547', 'uf':'PR'},
+    {'name':'Vida', 'phone':'+5545998130161', 'uf':'PR'},
+    {'name':'Chopinzinho', 'phone':'+554632421035', 'uf':'PR'},
+    {'name':'MagdaProlo', 'phone':'+554632421035', 'uf':'PR'}
 
 ];
 
