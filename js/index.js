@@ -126,7 +126,8 @@ const empresas = [
     {'name':'MagdaProlo', 'phone':'+554635271650', 'uf':'PR'},
     {'name':'Autentica', 'phone':'+5546991172668', 'uf':'PR'},
     {'name':'SinalVerdeDoIguacu', 'phone':'+5546999734969', 'uf':'PR'},
-    {'name':'Flex', 'phone':'+5546999250066', 'uf':'PR'}
+    {'name':'Flex', 'phone':'+554699250096', 'uf':'PR'},
+    {'name':'Xavantes', 'phone':'+554699760238', 'uf':'PR'}    
 ];
 
 
