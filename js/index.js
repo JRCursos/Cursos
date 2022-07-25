@@ -127,7 +127,21 @@ const empresas = [
     {'name':'Autentica', 'phone':'+5546991172668', 'uf':'PR'},
     {'name':'SinalVerdeDoIguacu', 'phone':'+5546999734969', 'uf':'PR'},
     {'name':'Flex', 'phone':'+554699250096', 'uf':'PR'},
-    {'name':'Xavantes', 'phone':'+554699760238', 'uf':'PR'}    
+    {'name':'Xavantes', 'phone':'+554699760238', 'uf':'PR'},
+    {'name':'Senno', 'phone':'+5542999231900', 'uf':'PR'},
+    {'name':'Condubem', 'phone':'+5542999715210', 'uf':'PR'},
+    {'name':'Tropical', 'phone':'+5542999990645', 'uf':'PR'},
+    {'name':'VenezaVip', 'phone':'+5542999179756', 'uf':'PR'},
+    {'name':'VilaVelha ', 'phone':'+5542999980035', 'uf':'PR'},
+    {'name':'Desafio', 'phone':'+5542999379700', 'uf':'PR'}, 
+    {'name':'Bacana', 'phone':'+5542984427777', 'uf':'PR'},
+    
+    {'name':'Ebenezer', 'phone':'+5542999743487', 'uf':'PR'},
+    {'name':'RioBranco', 'phone':'+5542999048174', 'uf':'PR'},
+    {'name':'Habilita', 'phone':'+5547984550863', 'uf':'PR'},
+    {'name':'Lapa', 'phone':'+5541995005283', 'uf':'PR'},
+    {'name':'PratenseLapa', 'phone':'+5541985242819', 'uf':'PR'}
+
 ];
 
 
