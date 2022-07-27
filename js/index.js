@@ -92,7 +92,7 @@ const empresas = [
     {'name':'Veneza', 'phone':'+554230277777', 'uf':'PR'},
     {'name':'Vicenza', 'phone':'+5541988900508', 'uf':'PR'},
     {'name':'Xaxim', 'phone':'+5541991265968', 'uf':'PR'},
-    {'name':'Carlopolis', 'phone':'+5543991822759', 'uf':'PR'},
+    {'name':'Carlopolis', 'phone':'+5543991380133', 'uf':'PR'},
     {'name':'AltoParana', 'phone':'+554434222511', 'uf':'PR'},
     {'name':'Tuneiras', 'phone':'+5544999700038', 'uf':'PR'},
     {'name':'Ideal', 'phone':'+5544999350031', 'uf':'PR'},
