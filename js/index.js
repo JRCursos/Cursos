@@ -66,7 +66,7 @@ const empresas = [
     {'name':'Litoral', 'phone':'+554134723220', 'uf':'PR'},
     {'name':'Machado', 'phone':'+554695988635897', 'uf':'PR'},
     {'name':'Mandaguacu', 'phone':'+5544999620135', 'uf':'PR'},
-    {'name':'Mangueirinha', 'phone':'+5546999190050', 'uf':'PR'},
+    {'name':'Mangueirinha', 'phone':'+5546999112313', 'uf':'PR'},
     {'name':'Marcon', 'phone':'+5541988938140', 'uf':'PR'},
     {'name':'Mariluz', 'phone': '+5544998626842', 'uf':'PR'},
     {'name':'Margil','phone':'+5546999757464', 'uf':'PR'},
