@@ -140,9 +140,10 @@ const empresas = [
     {'name':'Habilita', 'phone':'+5547984550863', 'uf':'PR'},
     {'name':'Lapa', 'phone':'+5541995005283', 'uf':'PR'},
     {'name':'PratenseLapa', 'phone':'+5541985242819', 'uf':'PR'},
-    {'name':'Reserva', 'phone':'+5542999230294', 'uf':'PR'}
+    {'name':'Reserva', 'phone':'+5542999230294', 'uf':'PR'},
+    {'name':'TFS', 'phone':'+5543999168065', 'uf':'PR'},
+    {'name':'LapaF1', 'phone':'+5542991078370', 'uf':'PR'}
     
-
 ];
 
 
