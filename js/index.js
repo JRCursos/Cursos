@@ -142,7 +142,9 @@ const empresas = [
     {'name':'Reserva', 'phone':'+5542999230294', 'uf':'PR'},
     {'name':'TFS', 'phone':'+5543999168065', 'uf':'PR'},
     {'name':'VilaVelha', 'phone':'+5542999980035', 'uf':'PR'},
-    {'name':'LapaF1', 'phone':'+5542991078370', 'uf':'PR'}
+    {'name':'LapaF1', 'phone':'+5542991078370', 'uf':'PR'},
+    {'name':'BomSucesso', 'phone':'+5545999663808', 'uf':'PR'}
+
     
 ];
 
