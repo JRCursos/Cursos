@@ -132,7 +132,6 @@ const empresas = [
     {'name':'Condubem', 'phone':'+5542999715210', 'uf':'PR'},
     {'name':'Tropical', 'phone':'+5542999990645', 'uf':'PR'},
     {'name':'VenezaVip', 'phone':'+5542999179756', 'uf':'PR'},
-    {'name':'VilaVelha ', 'phone':'+5542999980035', 'uf':'PR'},
     {'name':'Desafio', 'phone':'+5542999379700', 'uf':'PR'}, 
     {'name':'Bacana', 'phone':'+5542984427777', 'uf':'PR'},
     {'name':'Ebenezer', 'phone':'+5542999743487', 'uf':'PR'},
@@ -142,6 +141,7 @@ const empresas = [
     {'name':'PratenseLapa', 'phone':'+5541985242819', 'uf':'PR'},
     {'name':'Reserva', 'phone':'+5542999230294', 'uf':'PR'},
     {'name':'TFS', 'phone':'+5543999168065', 'uf':'PR'},
+    {'name':'VilaVelha', 'phone':'+5542999980035', 'uf':'PR'},
     {'name':'LapaF1', 'phone':'+5542991078370', 'uf':'PR'}
     
 ];
