@@ -148,38 +148,3 @@ const empresas = [
     {'name':'CandidodeAbreu', 'phone':'+5545999663808', 'uf':'PR'},
     {'name':'Ebenezer', 'phone':'+5542999743487', 'uf':'PR'}
 ];
-
-
-
- 
-const p = new URLSearchParams(window.location.search).get('p');
-$(document).ready(function(){
-    if(p != null){
-        var e = empresas.find((e) => e.name == p);
-        if(e != null){
-            $("#img-parceiro").attr("src", "./img/c-"+p+".jpeg");
-            $("#img-cfc").attr("src", "./img/c-cfc-"+e.uf+".jpeg");
-            
-            $("#infrator-link").attr("href", 
-            "https://api.whatsapp.com/send?phone="+e.phone+"&text=Olá, gostaria de mais informações sobre o curso *Reciclagem do motorista infrator*"
-            );
-            
-            $("#cetci-link").attr("href", 
-            "https://api.whatsapp.com/send?phone="+e.phone+"&text=Olá, gostaria de mais informações sobre o curso *CETCI - Condutor Especializado em Transporte de Cargas Indivisíveis*"
-            );
-            $("#cetpp-link").attr("href", 
-            "https://api.whatsapp.com/send?phone="+e.phone+"&text=Olá, gostaria de mais informações sobre o curso *CETPP - Condutor Especializado em Transporte de Produtos Perigosos - MOPP*"
-            );
-            $("#cete-link").attr("href", 
-            "https://api.whatsapp.com/send?phone="+e.phone+"&text=Olá, gostaria de mais informações sobre o curso *CETE - Condutor Especializado em Transporte de Escolares*"
-            );
-            $("#cetcp-link").attr("href", 
-            "https://api.whatsapp.com/send?phone="+e.phone+"&text=Olá, gostaria de mais informações sobre o curso *CETCP - Condutor Especialozado em Transporte Coletivo de Passageiros*"
-            );
-            $("#cetve-link").attr("href", 
-            "https://api.whatsapp.com/send?phone="+e.phone+"&text=Olá, gostaria de mais informações sobre o curso *CETVE - Condutor Especializado em Transporte de Veículos de Emergência*"
-            );
-        }
-        
-    }
-});

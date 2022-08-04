@@ -27,6 +27,26 @@
     <meta name="twitter:description" content="Nosso objetivo é a formação e capacitação de profissionais para o mercado de trabalho e, consequentemente, para um mundo melhor."> 
     <meta name="twitter:image" content="https://jrcursos.github.io/Cursos/img/min-logo.jpeg">
     <title>JR Cursos</title>
+    <style>
+    #infrator-it{
+        display: none;
+    }
+    #cetci-it{
+        display: none;
+    }
+    #cetpp-it{
+        display: none;
+    }
+    #cete-it{
+        display: none;
+    }
+    #cetp-it{
+        display: none;
+    }
+    #cetve-it{
+        display: none;
+    }
+    </style>
   </head>
   <body>
         <div class="container-fluid">      
@@ -41,59 +61,17 @@
         <div class="container">
         <br/>
 
-        <!-- HEADER-->
-        <div class="row" >
-            <div class="col">
-                <p style="text-align: left;"><i>
-                    O objetivo da JR Cursos é a formação de profissionais para o mercado de trabalho e, 
-                    consequentemente, para um mundo melhor.
-                </i></p>
-                <p style="text-align: left;"><i>                
-                    Para isso, trabalhamos estabelecendo parcerias entre instituições
-                     de ensino e empresas detentoras de tecnologia para ensino
-                      à distância, visando à excelência em nossos conteúdos e buscando
-                       a atuação em todo o território nacional, sempre respeitando normas
-                        e legislações vigentes em cada Estado.    
-                </i></p>
-            </div>
-            <!-- CAROUSEL-->
-            <div class="col">
-                <div id="carousel" class="carousel slide" data-bs-ride="carousel" data-interval="200">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <p><b>Parceiro:</b></p>
-                            <img id="img-parceiro" src="./img/no-image.jpeg" class="d-block c-img" alt="..." >
-                        </div>
-                        <div class="carousel-item">
-                            <p><b>Apoio:</b></p>
-                            <img id="img-cfc" src="./img/c-cfc-PR.jpeg" class="d-block c-img" alt="..." >
-                        </div>
-                        <div class="carousel-item">
-                            <p><b>Apoio:</b></p>
-                            <img src="./img/c-fecomercio.jpeg" class="d-block c-img" alt="..." >
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- ROW-->
-  
-        <br/>
-        <br/>
-        <!---------------------------------- Especializações -------------------------->
-        <h2 class="courses-title"> CURSOS DE ESPECIALIZAÇÃO - FORMAÇÃO E ATUALIZAÇÃO</h2>
-        <br/>
 
-
-     <!-- INFRATOR -->
-     <div class="row" >
+         <!-- INFRATOR -->
+        <div id="infrator-it">
+         <div class="row" >
         <span class="courses-item" 
             data-bs-toggle="collapse" 
             href="#infrator" 
             role="button" aria-expanded="false" aria-controls="infrator">
             Reciclagem do condutor infrator 
         </span>
-        <div class="collapse" id="infrator">
+        <div class="collapse show" id="infrator">
             <div class="card card-body">
                 <p>O Curso de Reciclagem de condutor infrator se divide em duas categorias:</p>
                 <p>•<b> Cassação ou suspensão:</b> tem como objetivo relembrar as regras de trânsito e as normas de 
@@ -133,18 +111,18 @@
             </div>
         </div>
     </div>
-
-
+    </div>
 
         <!-- CETCI -->
-        <div class="row" >
+    <div id="cetci-it">
+        <div class="row">
             <span class="courses-item" 
                 data-bs-toggle="collapse" 
                 href="#cetci" 
                 role="button" aria-expanded="false" aria-controls="cetci">
                 CETCI - Condutor Especializado em Transporte de Cargas Indivisíveis
             </span>
-            <div class="collapse" id="cetci">
+            <div class="collapse show" id="cetci">
                 <div class="card card-body">
                     <p>Destina-se a motoristas que desejam atuar profissionalmente no transporte de veículos que,
                         em função da altura, largura e comprimento da carga transportada, são obrigados a portar a 
@@ -183,16 +161,18 @@
                </div>
             </div>
         </div>
+    </div>
 
 <!-- CETPP -->
-        <div class="row" >
+    <div id="cetpp-it">
+        <div class="row">
             <span class="courses-item" 
                 data-bs-toggle="collapse" 
                 href="#cetpp" 
                 role="button" aria-expanded="false" aria-controls="cetpp">
                 CETPP - Condutor Especializado em Transporte de Produtos Perigosos - MOPP
             </span>
-            <div class="collapse" id="cetpp">
+            <div class="collapse show" id="cetpp">
                 <div class="card card-body">
                     <p>O curso é destinado à motoristas que atuam diretamente com o transporte de produtos perigosos, tais como:
                         químicos, explosivos, combustíveis, entre outros</p>
@@ -235,16 +215,17 @@
                     
             </div>
         </div>
-
+    </div>
         <!-- CETE -->
-        <div class="row">
+    <div id="cete-it">
+        <div class="row"  >
             <span class="courses-item" 
                 data-bs-toggle="collapse" 
                 href="#cete" 
                 role="button" aria-expanded="false" aria-controls="cete">
                 CETE - Condutor Especializado em Transporte Escolar 
             </span>
-            <div class="collapse" id="cete">
+            <div class="collapse show" id="cete">
                 <div class="card card-body">
                     <p>Conforme estabelecida na Resolução 
                         <a href="https://www.in.gov.br/en/web/dou/-/resolucao-n-789-de-18-de-junho-de-2020-263185648" target="_blank">789/20 do Contran</a>, a atividade do motorista profissional especializado no transporte
@@ -287,17 +268,17 @@
                </div>
             </div>
         </div>
-
+    </div>
+    <div id="cetp-it">
         <!-- CETCP -->
-
-        <div class="row">
+        <div class="row" >
             <span class="courses-item" 
                 data-bs-toggle="collapse" 
                 href="#cetcp" 
                 role="button" aria-expanded="false" aria-controls="cetcp">
                 CETCP - Condutor Especializado em Transporte Coletivo de Passageiros
             </span>
-            <div class="collapse" id="cetcp">
+            <div class="collapse show" id="cetcp">
                 <div class="card card-body">
               
                     <p>Conforme estabelecida na Resolução 
@@ -340,16 +321,17 @@
                 </div>
             </div>
         </div>
-
+    </div>
         <!-- CETVE -->
-        <div class="row">
+        <div id="cetve-it">
+        <div class="row" >
             <span class="courses-item" 
                 data-bs-toggle="collapse" 
                 href="#cetve" 
                 role="button" aria-expanded="false" aria-controls="cetve">
                 CETVE - Condutor Especializado em Transporte de Veículos de Emergência
             </span>
-            <div class="collapse" id="cetve">
+            <div class="collapse show" id="cetve">
                 <div class="card card-body">
                     <p>Conforme estabelecida na Resolução 
                         <a href="https://www.in.gov.br/en/web/dou/-/resolucao-n-789-de-18-de-junho-de-2020-263185648" target="_blank">789/20 do Contran</a>,
@@ -392,243 +374,31 @@
                </div>
             </div>
         </div>
+        </div>
         <br/>
+
+
+        <!-- IMGS-->
+        <div class="row" >
+            <div class="col">
+                <img id="img-parceiro" src="./img/no-image.jpeg" class="d-block c-img" alt="..." >
+            </div>
+            <div class="col"> 
+                <img id="img-cfc" src="./img/c-cfc-PR.jpeg" class="d-block c-img" alt="..." >
+            </div>
+            <!-- CAROUSEL-->
+            <div class="col">    
+                <img src="./img/c-fecomercio.jpeg" class="d-block c-img" alt="..." >
+            </div>
+        </div>
         <br/>
-        <!---------------------------------- Capacitações -------------------------->
-        <!-- INSTRUTOR DE TRANSITO -->
-        <h2 class="courses-title">CURSOS DE CAPACITAÇÃO - FORMAÇÃO E ATUALIZAÇÃO</h2>
-        <br/>
-        <div class="row">
-            <span class="courses-item" 
-                data-bs-toggle="collapse" 
-                href="#instrutor-transito" 
-                role="button" aria-expanded="false" aria-controls="instrutor-transito">
-                Instrutor de Trânsito
-            </span>
-            <div class="collapse" id="instrutor-transito">
-                <div class="card card-body">
-                    <p>O curso de instrutor de trânsito é estruturado para formar os melhores profissionais de autoescola, conforme Resolução
-                        <a href="https://www.in.gov.br/en/web/dou/-/resolucao-n-789-de-18-de-junho-de-2020-263185648" target="_blank">789/20 do Contran</a>
-                        são dadas as noções essenciais relacionadas ao trânsito brasileiro e capacitação para lecionar 
-                        conteúdos ao público-alvo.</p>
-                    <p>Tendo como base o ensino do profissional os princípios educacionais, didáticos e éticos relacionando-o com o conhecimento do 
-                        Código de Trânsito Brasileiro, Legislação, Direção Defensiva, Noções de Primeiros Socorros e Medicina de Tráfego, Noções de Proteção e 
-                        Respeito ao Meio Ambiente e de Convívio Social no Trânsito, Noções de Mecânica Básica e Prática de Direção
-                         Veicular são os conteúdos específicos que o profissional aprenderá e, posteriormente lecionará nos Centros de
-                          Formação de Condutores (CFCs).</p>
-                    <p>Abordaremos  ainda outras competências para ensinar e repassar os conhecimentos aos candidatos da primeira
-                         habilitação. Nossos professores possuem longa experiência na formação de instrutores de trânsito e, por
-                          isso, destacam-se na explanação de conteúdos de forma hábil e completa. A inovação e técnicas exclusivas 
-                          são diferenciais em nossa metodologia.</p>
-                   
-                   
-                   
-                    <div class="row">
-                        <div class="col">
-                            <p> 
-                                <img width="24" height="24" src="./img/requisitos.svg"></img>
-                                <span class="requisitos"> Requisitos</span>
-                            </p>
-                            <ul>
-                                <li>Ensino Médio completo</li>
-                                <li>2 anos de Habilitação</li>
-                                </ul>
-                            </div>
-                            <div class="col">
-                                <p> 
-                                    <img width="24" height="24" src="./img/carga.svg"></img>
-                                    <span class="requisitos"> Carga horária</span>
-                                </p>
-                                <ul>
-                                    <li><b>Formação:</b> 180 horas-aula</li> 
-                                    <li><b>Atualização:</b> 20 horas-aula</li>
-                                </ul>
-                            </div> 
-                    </div>  
+        
+  
 
-                    <a class="no-style-link" target="_blank"
-                        href="https://api.whatsapp.com/send?phone=+554196985992&text=Olá, gostaria de mais informações sobre o curso *Instrutor de Trânsito*"> 
-                        <span class="whats-button">
-                            Saiba mais 
-                        </span>
-                    </a>
-               </div>
-            </div>
-        </div>
-
-<!-- DIRETOR DE ENSINO -->
-        <div class="row" >
-            <span class="courses-item" 
-                data-bs-toggle="collapse" 
-                href="#diretor-ensino" 
-                role="button" aria-expanded="false" aria-controls="diretor-ensino">
-                Diretor de Ensino
-            </span>
-            <div class="collapse" id="diretor-ensino">
-                <div class="card card-body">
-                    <p>Capacita o profissional para dirigir o corpo docente das autoescolas e empresas de ensino no trânsito em questões pedagógicas, 
-                        de acordo com os padrões estabelecidos na Resolução 
-                        <a href="https://www.in.gov.br/en/web/dou/-/resolucao-n-789-de-18-de-junho-de-2020-263185648" target="_blank">789/20 do Contran</a>, 
-                   os quais atuarão nos Centros de Formação de Condutores (CFC) e empresas que operam Trânsito e Transporte.</p>
-                    <p> O curso ofertará noções de gestão de pessoas, administração e supervisão escolar, darão ao profissional competência para dirigir o corpo docente das instituições de forma eficaz e ética. </p>
-                    <p>Ao profissional também será esclarecida a necessidade de somar esforços com os governos federal, estadual e municipal no intuito de 
-                    elevar o nível da educação no trânsito no Brasil.</p>
-                    <p>Com isso, espera-se alcançar qualidade na formação de novos condutores, bem como maior conscientização e humanização no trânsito
-                     nacional para uma redução efetiva do número de acidentes.</p>
+     
 
 
-                    <div class="row">
-                        <div class="col">
-                            <p> 
-                                <img width="24" height="24" src="./img/requisitos.svg"></img>
-                                <span class="requisitos"> Requisitos</span>
-                            </p>
-                            <ul>
-                                <li>Ensino Superior completo</li> 
-                                <li>Ser instrutor de trânsito</li>
-                                <li>2 anos de Habilitação</li>
-                                </ul>
-                            </div>
-                            <div class="col">
-                                <p> 
-                                    <img width="24" height="24" src="./img/carga.svg"></img>
-                                    <span class="requisitos"> Carga horária</span>
-                                </p>
-                                <ul>
-                                    <li><b>Formação:</b> 40 horas-aula</li> 
-                                    <li><b>Atualização:</b> 20 horas-aula</li>
-                                </ul>
-                            </div> 
-                    </div>
-                    
-                    <a class="no-style-link" target="_blank"
-                        href="https://api.whatsapp.com/send?phone=+554196985992&text=Olá, gostaria de mais informações sobre o curso *Diretor de Ensino*"> 
-                        <span class="whats-button">
-                            Saiba mais 
-                        </span>
-                    </a>  
- 
-               </div>
-            </div>
-        </div>
-<!-- DIRETOR GERAL -->
-        <div class="row" >
-            <span class="courses-item" 
-                data-bs-toggle="collapse" 
-                href="#diretor-geral" 
-                role="button" aria-expanded="false" aria-controls="diretor-geral">
-                Diretor-Geral
-            </span>
-            <div class="collapse" id="diretor-geral">
-                <div class="card card-body">
-                    
-                    <p>Em um país onde os cursos superiores estão mais comuns e os profissionais menos qualificados, 
-                        é preciso se capacitar além da faculdade. O curso tem como principal objetivo a formação de profissionais de excelência, 
-                        capaz de gerir um CFC de forma eficiente e responsável.</p>    
-                    <p>Trabalhamos com um conteúdo completo e interativo, conforme os padrões estabelecidos na Resolução 
-                        <a href="https://www.in.gov.br/en/web/dou/-/resolucao-n-789-de-18-de-junho-de-2020-263185648" target="_blank">789/20 do Contran</a>, 
-                        com uma equipe altamente qualificada para que os
-                         profissionais saiam do curso prontos para o desafio de administrar um grupo de funcionários diversos
-                          como professores, instrutores de trânsito e os alunos do CFC.</p>
-                    <p>O Diretor-Geral será o responsável por toda a gestão do local e, para isso, deve ter os conhecimentos 
-                        adquiridos por meio do curso em pouco tempo e com um investimento acessível.</p>
-                   
-                   
-                    <div class="row">
-                        <div class="col">
-                            <p> 
-                                <img width="24" height="24" src="./img/requisitos.svg"></img>
-                                <span class="requisitos"> Requisitos</span>
-                            </p>
-                            <ul> 
-                                <li>Ensino Superior completo</li> 
-                                <li>Possuir o curso de Instrutor</li>
-                                <li>2 anos de Habilitação</li>
-                            </ul>
-                        </div>
-                        <div class="col">
-                                <p> 
-                                    <img width="24" height="24" src="./img/carga.svg"></img>
-                                    <span class="requisitos"> Carga horária</span>
-                                </p>
-                                <ul>
-                                    <li><b>Formação:</b> 40 horas-aula</li> 
-                                    <li><b>Atualização:</b> 20 horas-aula</li>
-                                </ul>
-                        </div> 
-                    </div>
-                    
-                    <a class="no-style-link" target="_blank"
-                        href="https://api.whatsapp.com/send?phone=+554196985992&text=Olá, gostaria de mais informações sobre o curso *Diretor Geral*"> 
-                        <span class="whats-button">
-                            Saiba mais 
-                        </span>
-                    </a>  
-   
-               </div>
-            </div>
-        </div>
-<!-- EXAMINADOR -->
-        <div class="row" >
-            <span class="courses-item" 
-                data-bs-toggle="collapse" 
-                href="#examinador" 
-                role="button" aria-expanded="false" aria-controls="examinador">
-                Examinador
-            </span>
-            <div class="collapse" id="examinador">
-                <div class="card card-body">
-
-                    <p>Conforme padrões estabelecidos na Resolução 
-                        <a href="https://www.in.gov.br/en/web/dou/-/resolucao-n-789-de-18-de-junho-de-2020-263185648" target="_blank">789/20 do Contran</a>,
-                        o curso de examinador de trânsito capacitará o profissional com conhecimento técnico e fundamental 
-                        do processo de avaliação de candidatos de primeira habilitação. No entanto, abordaremos os conceitos, as teorias e as 
-                        medidas educacionais adequadas para o procedimento de aprovação do
-                         exame de habilitação, bem como abordagem dos comportamentos dos alunos em fase de teste.        
-                    </p>
-                    <p>
-                        Reforçamos o papel do examinador com uma conduta ética em relação ao concorrente e o avaliador, porém,
-                        com expectativa de formar um profissional que vê o processo de habilitação muito além dos procedimentos 
-                        formais que o envolve, mas como o início da concepção de um cidadão para o trânsito.
-                    </p>   
-                    
-
-                    <div class="row">
-                        <div class="col">
-                            <p> 
-                                <img width="24" height="24" src="./img/requisitos.svg"></img>
-                                <span class="requisitos"> Requisitos</span>
-                            </p>
-                            <ul>
-                                <li>21 anos completos</li>
-                                <li>Ensino Superior completo</li>
-                                <li>Possuir o curso de Instrutor</li>
-                                <li>Possuir Habilitação</li>
-                            </ul>
-                        </div>
-                        <div class="col">
-                            <p> 
-                                <img width="24" height="24" src="./img/carga.svg"></img>
-                                <span class="requisitos"> Carga horária</span>
-                            </p>
-                            <ul>
-                                <li><b>Formação:</b> 28 horas-aula</li> 
-                                <li><b>Atualização:</b> 20 horas-aula</li>
-                            </ul>
-                        </div> 
-                    </div>
-                    
-                    
-                    <a class="no-style-link" target="_blank"
-                        href="https://api.whatsapp.com/send?phone=+554196985992&text=Olá, gostaria de mais informações sobre o curso *Examinador*"> 
-                        <span class="whats-button">
-                            Saiba mais 
-                        </span>
-                    </a>
-          
-               </div>
-            </div>
-        </div>
+                  
 
    
 </div>
@@ -652,7 +422,20 @@
 
 <script>
 
+
+ 
+
 $(document).ready(function(){
+
+var c = new URLSearchParams(window.location.search).get('c');
+if(c == null){
+    c = 'infrator';
+}
+console.log(c);
+document.getElementById(c+'-it').style.display = 'block';
+$(c+'-it').fadeIn();
+
+
     var p = new URLSearchParams(window.location.search).get('p');
     if(p == null){
         p = 'piloto'; // default
@@ -682,6 +465,10 @@ $(document).ready(function(){
         $("#cetve-link").attr("href", 
             "https://api.whatsapp.com/send?phone="+e.phone+"&text=Olá, gostaria de mais informações sobre o curso *CETVE - Condutor Especializado em Transporte de Veículos de Emergência*"
         );
+
+  
+
+      
     }
 });
 </script>
