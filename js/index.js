@@ -146,5 +146,6 @@ const empresas = [
     {'name':'BomSucesso', 'phone':'+5545999663808', 'uf':'PR'},
     {'name':'Marcele', 'phone':'+5521983949925', 'uf':'RJ'},
     {'name':'CandidodeAbreu', 'phone':'+5545999663808', 'uf':'PR'},
-    {'name':'Ebenezer', 'phone':'+5542999743487', 'uf':'PR'}
+    {'name':'Ebenezer', 'phone':'+5542999743487', 'uf':'PR'},
+    {'name':'Paula', 'phone':'+554191576162', 'uf':'PR'}
 ];
