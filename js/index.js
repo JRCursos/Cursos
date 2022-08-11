@@ -148,9 +148,19 @@ const empresas = [
     {'name':'CandidodeAbreu', 'phone':'+5545999663808', 'uf':'PR'},
     {'name':'Ebenezer', 'phone':'+5542999743487', 'uf':'PR'},
     {'name':'Paula', 'phone':'+554191576162', 'uf':'PR'},
-
     {'name':'Barigui', 'phone':'+554133363330', 'uf':'PR'},
     {'name':'Itupava', 'phone':'+5541995871314', 'uf':'PR'},
     {'name':'Sabrina', 'phone':'+554133722477', 'uf':'PR'},
-    {'name':'OpcaoMaster', 'phone':'+5541992060207', 'uf':'PR'}
+    {'name':'OpcaoMaster', 'phone':'+5541992060207', 'uf':'PR'},
+    {'name':'Constantine', 'phone':'+5541996612550', 'uf':'PR'},
+    {'name':'Amaral', 'phone':'+5541998223031', 'uf':'PR'},
+    {'name':'Matelandia', 'phone':'+5545999687295', 'uf':'PR'},
+    {'name':'AgudosDoSul', 'phone':'+5541988722715', 'uf':'PR'},
+    {'name':'Preferencial', 'phone':'+5541999956997', 'uf':'PR'},
+    {'name':'AprovaAcao', 'phone':'+554134244846', 'uf':'PR'},
+    {'name':'Emanuel', 'phone':'+5541984531454', 'uf':'PR'},
+    {'name':'Berlim', 'phone':'+5541998836263', 'uf':'PR'},
+    {'name':'Scremin', 'phone':'+554134223420', 'uf':'PR'},
+    {'name':'VeraCruz', 'phone':'+5545999504547', 'uf':'PR'},
+    {'name':'Condubem', 'phone':'+5542999715210', 'uf':'PR'}
 ];
