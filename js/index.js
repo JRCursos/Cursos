@@ -163,6 +163,6 @@ const empresas = [
     {'name':'Scremin', 'phone':'+554134223420', 'uf':'PR'},
     {'name':'VeraCruz', 'phone':'+5545999504547', 'uf':'PR'},
     {'name':'Condubem', 'phone':'+5542999715210', 'uf':'PR'},
-    {'name':'CampoDoTenente', 'phone':'+55', 'uf':'PR'},
+    {'name':'CampoDoTenente', 'phone':'+5541996418876', 'uf':'PR'},
     {'name':'SinalVerde', 'phone':'+5541988554266', 'uf':'PR'}
 ];
