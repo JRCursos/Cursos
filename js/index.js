@@ -164,5 +164,6 @@ const empresas = [
     {'name':'VeraCruz', 'phone':'+5545999504547', 'uf':'PR'},
     {'name':'Condubem', 'phone':'+5542999715210', 'uf':'PR'},
     {'name':'CampoDoTenente', 'phone':'+5541996418876', 'uf':'PR'},
-    {'name':'SinalVerde', 'phone':'+5541988554266', 'uf':'PR'}
+    {'name':'SinalVerde', 'phone':'+5541988554266', 'uf':'PR'}, 
+    {'name':'Sol', 'phone':'+5569992442929', 'uf':'RO'} 
 ];
