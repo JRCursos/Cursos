@@ -165,5 +165,10 @@ const empresas = [
     {'name':'Condubem', 'phone':'+5542999715210', 'uf':'PR'},
     {'name':'CampoDoTenente', 'phone':'+5541996418876', 'uf':'PR'},
     {'name':'SinalVerde', 'phone':'+5541988554266', 'uf':'PR'}, 
-    {'name':'Sol', 'phone':'+5569992442929', 'uf':'RO'} 
+    {'name':'Sol', 'phone':'+5569992442929', 'uf':'RO'},
+    {'name':'PremierMatriz', 'phone':'+5541992083525', 'uf':'PR'},
+    {'name':'Hauer', 'phone':'+5541988224335', 'uf':'PR'},
+    {'name':'VitoriaVip', 'phone':'+5543988268802', 'uf':'PR'},
+    {'name':'Ativa', 'phone':'+5541997678375', 'uf':'PR'},
+    {'name':'Tesla', 'phone':'+554432620828', 'uf':'PR'}
 ];
