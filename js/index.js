@@ -180,7 +180,6 @@ const empresas = [
     {'name':'ArcoIris', 'phone':'+554332622779', 'uf':'PR'},
     {'name':'SS', 'phone':'+5543991532605', 'uf':'PR'},
     {'name':'Inova', 'phone':'+554330511414', 'uf':'PR'},
-
     {'name':'Parana', 'phone':'+554333233030', 'uf':'PR'},
-    
+    {'name':'Shalon', 'phone':'+5543988025429', 'uf':'PR'}
 ];
