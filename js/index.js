@@ -64,7 +64,7 @@ const empresas = [
     {'name':'Jandaia', 'phone':'+5543999233439', 'uf':'PR'},
     {'name':'jkCentro', 'phone':'+5545999779672', 'uf':'PR'},
     {'name':'Litoral', 'phone':'+554134723220', 'uf':'PR'},
-    {'name':'Machado', 'phone':'+554695988635897', 'uf':'PR'},
+    {'name':'Machado', 'phone':'+5546991115636', 'uf':'PR'},
     {'name':'Mandaguacu', 'phone':'+5544999620135', 'uf':'PR'},
     {'name':'Mangueirinha', 'phone':'+5546999112313', 'uf':'PR'},
     {'name':'Marcon', 'phone':'+5541988938140', 'uf':'PR'},
@@ -120,7 +120,7 @@ const empresas = [
     {'name':'LiderTran', 'phone':'+5546999157141', 'uf':'PR'},
     {'name':'EducaTransito', 'phone':'+5546999277454', 'uf':'PR'},
     {'name':'Araucaria', 'phone':'+5546999377076', 'uf':'PR'},
-    {'name':'Vilela', 'phone':'+5543999888547', 'uf':'PR'},
+    {'name':'Vilela', 'phone':'+5543999226393', 'uf':'PR'},
     {'name':'Vida', 'phone':'+5545998130161', 'uf':'PR'},
     {'name':'Chopinzinho', 'phone':'+554632421035', 'uf':'PR'},
     {'name':'MagdaProlo', 'phone':'+554635271650', 'uf':'PR'},
@@ -175,6 +175,12 @@ const empresas = [
     {'name':'FK', 'phone':'+5545991070050', 'uf':'PR'},
     {'name':'Feneme', 'phone':'+5541999744109', 'uf':'PR'},
     {'name':'Mandaguari', 'phone':'+5544998294400', 'uf':'PR'},
-    {'name':'AloBrasil', 'phone':'+5545999175200', 'uf':'PR'}
+    {'name':'AloBrasil', 'phone':'+5545999175200', 'uf':'PR'},
+    {'name':'Apucarana', 'phone':'+5543999570006', 'uf':'PR'},
+    {'name':'ArcoIris', 'phone':'+554332622779', 'uf':'PR'},
+    {'name':'SS', 'phone':'+5543991532605', 'uf':'PR'},
+    {'name':'Inova', 'phone':'+554330511414', 'uf':'PR'},
+
+    {'name':'Parana', 'phone':'+554333233030', 'uf':'PR'},
     
 ];
