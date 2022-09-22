@@ -181,5 +181,11 @@ const empresas = [
     {'name':'SS', 'phone':'+5543991532605', 'uf':'PR'},
     {'name':'Inova', 'phone':'+554330511414', 'uf':'PR'},
     {'name':'Parana', 'phone':'+554333233030', 'uf':'PR'},
-    {'name':'Shalon', 'phone':'+5544988025429', 'uf':'PR'}
+    {'name':'Shalon', 'phone':'+5544988025429', 'uf':'PR'},
+    {'name':'DuCampo', 'phone':'+554498358877', 'uf':'PR'},
+    {'name':'Geracao', 'phone':'+5544997572922', 'uf':'PR'},
+    {'name':'NovoHorizonte', 'phone':'+5544991468415', 'uf':'PR'},
+    {'name':'Eficaz', 'phone':'+5544999700600', 'uf':'PR'},
+    {'name':'Franco', 'phone':'+5541992835563', 'uf':'PR'},
+    {'name':'Palotina', 'phone':'+5544984045880', 'uf':'PR'}  
 ];
