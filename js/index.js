@@ -35,7 +35,7 @@ const empresas = [
     {'name':'Altonia', 'phone':'+5544999254430', 'uf':'PR'},
     {'name':'Perola', 'phone':'+5544999254430', 'uf':'PR'},
     {'name':'Amorim', 'phone':'+5541991621023', 'uf':'PR'},
-    {'name':'Anthony','phone':'+5544998919246', 'uf':'PR'},
+    {'name':'Anthony','phone':'+5544998319246', 'uf':'PR'},
     {'name':'Aprender','phone':'+5541998594448', 'uf':'PR'},
     {'name':'Artur', 'phone':'+554235352062', 'uf':'PR'},
     {'name':'AltoGiro', 'phone':'+5541991518709', 'uf':'PR'},
